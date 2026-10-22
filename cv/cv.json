@@ -1,0 +1,285 @@
+{
+ "name": "Niloofar Kazemi",
+ "header": [
+  {
+   "text": "niloofarkazemi",
+   "url": "https://www.linkedin.com/in/niloofarkazemi",
+   "icons": [
+    "faLinkedin"
+   ]
+  },
+  {
+   "text": "niloofarkazemi1234@gmail.com",
+   "url": "mailto:niloofarkazemi1234@gmail.com",
+   "icons": [
+    "faEnvelope"
+   ]
+  }
+ ],
+ "intro": [],
+ "sections": [
+  {
+   "title": "Research Experience",
+   "id": "research-experience",
+   "blocks": [
+    {
+     "type": "entry",
+     "kind": "experience",
+     "org": "McGill University Health Centre (MUHC)",
+     "lines": [
+      "Research Institute of MUHC"
+     ],
+     "roles": [
+      {
+       "date": "Since Feb.&nbsp;2026",
+       "title": "ML Research Assistant",
+       "bullets": [
+        "Achieved 76% AUC in two-year sarcoma metastasis prediction under data-scarce conditions (51 samples) using a Multi-Instance Contrastive Learning pipeline.",
+        "Achieved a 99% AUC for locating tumors in sarcoma patients’ MRI scans by fine-tuning a RadImageNet-pretrained ResNet-50.",
+        "Implemented an MRI preprocessing workflow featuring N4 bias field correction, fat/muscle-based intensity normalization, and spatial resampling."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "entry",
+     "kind": "experience",
+     "org": "University of Alberta",
+     "lines": [
+      "Unsworth Lab"
+     ],
+     "roles": [
+      {
+       "date": "Sep. 2023 – Dec. 2025",
+       "title": "Research Assistant",
+       "bullets": [
+        "Performed two elastin-like polypeptide (ELPs) characterization through X-ray photoelectron spectroscopy, contact angle, and Fourier transform infrared spectroscopy (FTIR), and ELP ellipsometry",
+        "Investigated the temperature transition effect of two ELPs on their hydration and rehydration using quartz crystal microbalance with dissipation (QCM-D)",
+        "Analyzed uremic toxin-protein layer adsorption behavior over time using QCM-D"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "entry",
+     "kind": "experience",
+     "org": "Sholeh Sanat Manufacturing Company",
+     "lines": [
+      "Department of Simulation and Optimization"
+     ],
+     "roles": [
+      {
+       "date": "Jul. 2021 – Oct. 2021",
+       "title": "Research Intern",
+       "bullets": [
+        "Designed deterministic models to simulate industrial processes and component interactions",
+        "Optimized system constraints and continuous variables, ensuring strict alignment with real-world target metrics and operational data"
+       ]
+      }
+     ]
+    }
+   ],
+   "subsections": []
+  },
+  {
+   "title": "Publications &amp; Conferences",
+   "id": "publications-conferences",
+   "blocks": [
+    {
+     "type": "publication",
+     "authors": "<strong>Kazemi, N.</strong>, Vallières, M., Gorelik, N. Tsui, J",
+     "year": "2026",
+     "title": "Predicting soft-tissue sarcoma metastasis risk from MRI under data scarcity: A patch-based deep attention multiple-instance learning approach",
+     "url": null,
+     "prefix": "In preparation for",
+     "venue": "Radiology Artificial Intelligence",
+     "acronym": null,
+     "notes": [
+      "Also accepted in <em>WiML@NeurIPS’26</em> workshop."
+     ],
+     "abstract": null,
+     "abstract_host": null,
+     "citations": null
+    },
+    {
+     "type": "publication",
+     "authors": "Shayegh, B., <strong>Kazemi, N</strong>",
+     "year": "2026",
+     "title": "Mind which bird you favour: Parameterizing adequacy–fluency balance in meta-evaluation of machine translation",
+     "url": null,
+     "prefix": "Published in",
+     "venue": "Proceedings of the Conference on Machine Translation",
+     "acronym": "WMT",
+     "notes": [
+      "<svg class=\"icon\" viewBox=\"0 0 24 24\" width=\"1em\" height=\"1em\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5zM16 8 2 22M17.5 15H9\"/></svg> Independent Research"
+     ],
+     "abstract": null,
+     "abstract_host": null,
+     "citations": null
+    },
+    {
+     "type": "publication",
+     "authors": "<strong>Kazemi, N.</strong>, Ghahremanzadeh, A., Unsworth, L",
+     "year": "2024",
+     "title": "Effect of indoxyl sulfate on albumin adsorbed amounts and layer rigidity",
+     "url": null,
+     "prefix": "Presented at",
+     "venue": "the Annual Alberta Biomedical Engineering Conference",
+     "acronym": null,
+     "notes": [
+      "<svg class=\"icon\" viewBox=\"0 0 24 24\" width=\"1em\" height=\"1em\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3ZM19 10v2a7 7 0 0 1-14 0v-2M12 19v3\"/></svg>Oral (top 20%)"
+     ],
+     "abstract": null,
+     "abstract_host": null,
+     "citations": null
+    }
+   ],
+   "subsections": []
+  },
+  {
+   "title": "Education",
+   "id": "education",
+   "blocks": [
+    {
+     "type": "entry",
+     "kind": "education",
+     "org": "University of Alberta",
+     "lines": [
+      "Major in Biomedical Engineering",
+      "Thesis. End-tethered elastin-like polypeptides:&nbsp;Phase behaviour and indoxyl sulphate Affinity."
+     ],
+     "roles": [
+      {
+       "date": "2023 – 2026",
+       "title": "M.Sc.",
+       "bullets": []
+      }
+     ]
+    },
+    {
+     "type": "entry",
+     "kind": "education",
+     "org": "Amirkabir University of Technology",
+     "lines": [
+      "Major in Chemical Engineering",
+      "Thesis. Design of carbon capture process from a cement production plant."
+     ],
+     "roles": [
+      {
+       "date": "2018 – 2022",
+       "title": "B.Sc.",
+       "bullets": []
+      }
+     ]
+    }
+   ],
+   "subsections": []
+  },
+  {
+   "title": "Service and Teaching Experience",
+   "id": "service-and-teaching-experience",
+   "blocks": [],
+   "subsections": [
+    {
+     "title": "Mentorship and Teaching Assistantship",
+     "id": "mentorship-and-teaching-assistantship",
+     "blocks": [
+      {
+       "type": "teaching",
+       "role": "Research Mentor",
+       "org": "University of Alberta",
+       "intro": "",
+       "items": [
+        "Trained a high school student&nbsp;<span class=\"tdate\">Summer&nbsp;2025</span> and an undergraduate student&nbsp;<span class=\"tdate\">Spring&nbsp;2024</span> in lab techniques, buffer and uremic toxin solution preparation, and QCM‑D experimentation"
+       ]
+      },
+      {
+       "type": "teaching",
+       "role": "TA",
+       "org": "University of Alberta",
+       "intro": "",
+       "items": [
+        "Introductory University Chemistry II&nbsp;<span class=\"tdate\">Winter&nbsp;2025</span>, Engineering Thermodynamics&nbsp;<span class=\"tdate\">Fall&nbsp;2024</span>, and Calculus for Engineering I &amp; II&nbsp;<span class=\"tdate\">Winter,Fall&nbsp;2024</span>"
+       ]
+      },
+      {
+       "type": "teaching",
+       "role": "TA",
+       "org": "Farzanegan&nbsp;6 High School",
+       "intro": "",
+       "items": [
+        "Mathematics and Calculus"
+       ]
+      }
+     ],
+     "subsections": []
+    },
+    {
+     "title": "Volunteer Work",
+     "id": "volunteer-work",
+     "blocks": [
+      {
+       "type": "bullets",
+       "items": [
+        "<strong>Event Coordinator</strong> for Science to Business Network (S2BN), 2024 – 2025.",
+        "<strong>Event Coordinator</strong> for Chem‑E‑Car Nomination Annual Competition, 2020."
+       ]
+      }
+     ],
+     "subsections": []
+    }
+   ]
+  },
+  {
+   "title": "Notable Course Projects",
+   "id": "notable-course-projects",
+   "blocks": [
+    {
+     "type": "teaching",
+     "role": "Breast cancer classification from gene expression data",
+     "org": "",
+     "intro": "",
+     "items": [
+      "Classified microarray mRNA expression data into normal and breast cancer subtypes, leveraging machine learning techniques for multiclass classification."
+     ]
+    },
+    {
+     "type": "teaching",
+     "role": "Targeting Prototheca with Tubulin Binding Agents",
+     "org": "",
+     "intro": "",
+     "items": [
+      "Developed an alternative therapeutic strategy for mastitis in dairy cows by identifying antimicrotubular agents targeting Prototheca Zopfii tubulin, using homology modeling, molecular docking, and dynamics simulations."
+     ]
+    }
+   ],
+   "subsections": []
+  },
+  {
+   "title": "Skills",
+   "id": "skills",
+   "blocks": [
+    {
+     "type": "skills",
+     "rows": [
+      [
+       "Languages",
+       "English (Proficient), French (Beginner), Persian (Native)"
+      ],
+      [
+       "Programming",
+       "Python (Pandas, Numpy, PyTorch, Matplotlib), C/C++, MATLAB"
+      ],
+      [
+       "Tools",
+       "LaTeX, Jupyter Notebook, Molecular Operating Env., Visual Molecular Dynamics, CasaXPS, Aspen HYSYS, DWSIM - Open Source Chemical Process Simulator, QCMD Acoustic Wave Sensors (AWSensors)"
+      ]
+     ]
+    }
+   ],
+   "subsections": []
+  }
+ ],
+ "scholar": null,
+ "email": "niloofarkazemi1234@gmail.com"
+}
