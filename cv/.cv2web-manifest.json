@@ -1,9 +1,9 @@
 {
  "files": {
   "assets/app.js": "19349a5a36218d1ffbcff7da0f70113a6201524e4816e2656882b9a56c4afb8e",
-  "assets/style.css": "56fce61e7bc3390846b43d4a662b07f707fcdf6c97f73aa1bbeddb9133ae321b",
-  "cv.json": "ee5be9ca21066f53a42fb90f59dc7ef739a390814414f73d9059653c40253c96",
-  "index.html": "f7394ebc43762305b80c72037682ce7287101275d3a1afa70355c31c73a907ff"
+  "assets/style.css": "67096a99240bc183e5393ba10a19fc5d69986e988b4d8a4243e9e18755ea68d3",
+  "cv.json": "40fe4b3a73dec06bf9cdb7c0259dd836e0b84979e8f23c1f25e73b2a69d43a7d",
+  "index.html": "2bd0df61f024b356f87be72df6c159c0df19bfbcee0f9cc0811febc465a2288a"
  },
- "fingerprint": "e11adc378f700abeb6a826f3d6b3449e5f1ccc8dd83b36ebeab386fbd80c9334"
+ "fingerprint": "ebcc5542cf239a97e476db19f9bdcded53a23425864a8c8938f5d9c004bfed62"
 }

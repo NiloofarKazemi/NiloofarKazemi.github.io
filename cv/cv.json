@@ -24,7 +24,7 @@
    "blocks": [
     {
      "type": "paragraph",
-     "html": "Machine learning researcher building deep learning methods for medical imaging and other data-scarce settings, with 99% AUC tumor localization and 76% AUC metastasis prediction from just 51 MRI-based samples. Experience across vision, language technologies and scientific modeling, with strong Python and PyTorch skills."
+     "html": "Machine learning researcher building deep learning methods for medical imaging and other data-scarce settings. Experience across vision, language technologies and scientific modeling, with strong Python and PyTorch skills."
     }
    ],
    "subsections": []
@@ -187,8 +187,8 @@
    "subsections": []
   },
   {
-   "title": "Service and Teaching Experience",
-   "id": "service-and-teaching-experience",
+   "title": "Service and Teaching",
+   "id": "service-and-teaching",
    "blocks": [],
    "subsections": [
     {
@@ -273,10 +273,6 @@
     {
      "type": "skills",
      "rows": [
-      [
-       "Languages",
-       "English (Proficient), French (Beginner), Persian (Native)"
-      ],
       [
        "Programming",
        "Python (Pandas, Numpy, PyTorch, Matplotlib), C/C++, MATLAB"
