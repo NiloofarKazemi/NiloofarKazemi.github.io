@@ -50,7 +50,8 @@
         "Implemented an MRI preprocessing workflow featuring N4 bias field correction, fat/muscle-based intensity normalization, and spatial resampling."
        ]
       }
-     ]
+     ],
+     "logo": "MUHC.png"
     },
     {
      "type": "entry",
@@ -69,7 +70,8 @@
         "Analyzed uremic toxin-protein layer adsorption behavior over time using QCM-D"
        ]
       }
-     ]
+     ],
+     "logo": "uofa.png"
     },
     {
      "type": "entry",
@@ -87,7 +89,8 @@
         "Optimized system constraints and continuous variables, ensuring strict alignment with real-world target metrics and operational data"
        ]
       }
-     ]
+     ],
+     "logo": "sholeh.png"
     }
    ],
    "subsections": []
@@ -165,7 +168,8 @@
        "title": "M.Sc.",
        "bullets": []
       }
-     ]
+     ],
+     "logo": "uofa.png"
     },
     {
      "type": "entry",
@@ -181,7 +185,8 @@
        "title": "B.Sc.",
        "bullets": []
       }
-     ]
+     ],
+     "logo": "AU.png"
     }
    ],
    "subsections": []
