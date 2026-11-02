@@ -1,13 +1,13 @@
 {
  "files": {
-  "assets/app.js": "4e1d24e20fb77b55bbc1fd21b86346f50c1c0e28c839446a9693f75da507ddf1",
+  "assets/app.js": "1d3f1b502ee68c86174c5e811ea4a74e1d96933d9c928008431232bce2f354ab",
   "assets/logos/AU.png": "6db29c3026b4dc31ba77a9666c2dd491c31eb4701ab90e2ff20e4f955022a8fe",
   "assets/logos/MUHC.png": "4633cdde648c0118bde51391aa4399c6c8a311c59ade29c6d9e55abdbb9b71d5",
   "assets/logos/sholeh.png": "4ff48ddbf08d60fc9fdd2d29ee4447707af65165e37a87821ca3cb879b9f92a4",
   "assets/logos/uofa.png": "fc58a274b19a0a99d473b3fe9daa33f67ba4886b34ed1d33b353a0a782eb4d2f",
-  "assets/style.css": "2bf5448402688be9e8cfcf9327475ba68955c836adc407646913d6cdf2060206",
+  "assets/style.css": "454d70badc6c04dbdbfb499d4a1cf640f5c80a6d712476229a4957cdbe541568",
   "cv.json": "2b9efaff68e38e68ae5659eb27957473d7363e633fd5eac3e7db2d818ef3f54d",
-  "index.html": "19b307e5cf381e9045d78f117e21983f3428bac7148c2bfeae8410583b418acd"
+  "index.html": "675c2506504dda792987f32ea63857399f773eedf0746574818cf3da4eefa75b"
  },
- "fingerprint": "031cde4665a046b26d75c330026cabc0d7a5a942d110d8ea00fc805913f0101d"
+ "fingerprint": "8e4da804c332f11733175c129268aa16823cdbf2d04646fe9ef8cba0658b7ad8"
 }
