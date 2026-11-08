@@ -207,6 +207,9 @@
        "intro": "",
        "items": [
         "Trained a high school student&nbsp;<span class=\"tdate\">Summer&nbsp;2025</span> and an undergraduate student&nbsp;<span class=\"tdate\">Spring&nbsp;2024</span> in lab techniques, buffer and uremic toxin solution preparation, and QCM‑D experimentation"
+       ],
+       "half": [
+        false
        ]
       },
       {
@@ -216,6 +219,9 @@
        "intro": "",
        "items": [
         "Introductory University Chemistry II&nbsp;<span class=\"tdate\">Winter&nbsp;2025</span>, Engineering Thermodynamics&nbsp;<span class=\"tdate\">Fall&nbsp;2024</span>, and Calculus for Engineering I &amp; II&nbsp;<span class=\"tdate\">Winter,Fall&nbsp;2024</span>"
+       ],
+       "half": [
+        false
        ]
       },
       {
@@ -225,6 +231,9 @@
        "intro": "",
        "items": [
         "Mathematics and Calculus"
+       ],
+       "half": [
+        false
        ]
       }
      ],
@@ -257,6 +266,9 @@
      "intro": "",
      "items": [
       "Classified microarray mRNA expression data into normal and breast cancer subtypes, leveraging machine learning techniques for multiclass classification."
+     ],
+     "half": [
+      false
      ]
     },
     {
@@ -266,6 +278,9 @@
      "intro": "",
      "items": [
       "Developed an alternative therapeutic strategy for mastitis in dairy cows by identifying antimicrotubular agents targeting Prototheca Zopfii tubulin, using homology modeling, molecular docking, and dynamics simulations."
+     ],
+     "half": [
+      false
      ]
     }
    ],
