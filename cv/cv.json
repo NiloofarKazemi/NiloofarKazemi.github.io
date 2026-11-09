@@ -218,10 +218,14 @@
        "org": "University of Alberta",
        "intro": "",
        "items": [
-        "Introductory University Chemistry II&nbsp;<span class=\"tdate\">Winter&nbsp;2025</span>, Engineering Thermodynamics&nbsp;<span class=\"tdate\">Fall&nbsp;2024</span>, and Calculus for Engineering I &amp; II&nbsp;<span class=\"tdate\">Winter,Fall&nbsp;2024</span>"
+        "Introductory University Chemistry II&nbsp;<span class=\"tdate\">Winter&nbsp;2025</span>",
+        "Engineering Thermodynamics&nbsp;<span class=\"tdate\">Fall&nbsp;2024</span>",
+        "Calculus for Engineering I &amp; II&nbsp;<span class=\"tdate\">Winter, Fall&nbsp;2024</span>"
        ],
        "half": [
-        false
+        true,
+        true,
+        true
        ]
       },
       {
@@ -233,7 +237,7 @@
         "Mathematics and Calculus"
        ],
        "half": [
-        false
+        true
        ]
       }
      ],
