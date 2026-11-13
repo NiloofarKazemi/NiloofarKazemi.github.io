@@ -5,14 +5,14 @@
    "text": "niloofarkazemi",
    "url": "https://www.linkedin.com/in/niloofarkazemi",
    "icons": [
-    "faLinkedin"
+    "linkedin"
    ]
   },
   {
    "text": "niloofarkazemi1234@gmail.com",
    "url": "mailto:niloofarkazemi1234@gmail.com",
    "icons": [
-    "faEnvelope"
+    "mail"
    ]
   }
  ],
@@ -125,7 +125,7 @@
      "venue": "Proceedings of the Conference on Machine Translation",
      "acronym": "WMT",
      "notes": [
-      "<svg class=\"icon\" viewBox=\"0 0 24 24\" width=\"1em\" height=\"1em\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5zM16 8 2 22M17.5 15H9\"/></svg> Independent Research"
+      "<!--icon:dove--> Independent Research"
      ],
      "abstract": "There is a tradeoff in machine translation meta-evaluation between prioritizing alignment with adequacy versus fluency. The balance depends on the combination of translation systems in the meta-evaluation dataset. This system set is a small, filtered sample whose characteristics change heavily across years and language pairs; it does not represent the true system distribution. Consequently, the adequacy-fluency balance is often unrepresentative and subject to change. For sensitive domains, controlling this balance is critical. We expose this balance as a tunable choice. To achieve a target balance, we reweight existing systems while minimizing distortion from uniform weighting, ensuring the evaluated systems remain real and representative. We provide an exact optimization algorithm with theoretical guarantees and pruning mechanisms to compute these weights. To validate meta-evaluation internal consistency, we design a scorer-augmentation framework that establishes a known relative identity for the scorers. Results demonstrate that our reweighting method effectively controls the adequacy-fluency balance and preserves the internal consistency, outperforming prior approaches. Finally, we analyze the performance of popular scorers across a sweep of this parameter.",
      "abstract_host": "aclanthology.org",
@@ -141,7 +141,7 @@
      "venue": "the Annual Alberta Biomedical Engineering Conference",
      "acronym": null,
      "notes": [
-      "<svg class=\"icon\" viewBox=\"0 0 24 24\" width=\"1em\" height=\"1em\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3ZM19 10v2a7 7 0 0 1-14 0v-2M12 19v3\"/></svg> Oral (top 20%)"
+      "<!--icon:mic--> Oral (top 20%)"
      ],
      "abstract": null,
      "abstract_host": null,
