@@ -210,7 +210,8 @@
        ],
        "half": [
         false
-       ]
+       ],
+       "date": ""
       },
       {
        "type": "teaching",
@@ -226,7 +227,8 @@
         true,
         true,
         true
-       ]
+       ],
+       "date": ""
       },
       {
        "type": "teaching",
@@ -238,7 +240,8 @@
        ],
        "half": [
         true
-       ]
+       ],
+       "date": ""
       }
      ],
      "subsections": []
@@ -273,7 +276,8 @@
      ],
      "half": [
       false
-     ]
+     ],
+     "date": ""
     },
     {
      "type": "teaching",
@@ -285,7 +289,8 @@
      ],
      "half": [
       false
-     ]
+     ],
+     "date": ""
     }
    ],
    "subsections": []
